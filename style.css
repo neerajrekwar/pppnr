@@ -34,10 +34,10 @@ img {
     padding: 20px;
     border-radius: 25px;
 }
-@media all and (max-width: 200px) {
+@media screen and (max-width: 400px) {
     img {
       width: 50px;
-      height: 80%;
+      height: 100%;
       padding: 1vh;
       border-radius: 25px;  
     }  
